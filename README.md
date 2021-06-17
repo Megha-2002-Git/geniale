@@ -1,4 +1,4 @@
-# Geniale
+# Fourier Transform
 
 Let's take a new step!
 Here is the contents of fourier transform and its well known application in image restoration.
